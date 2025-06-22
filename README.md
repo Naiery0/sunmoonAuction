@@ -6,6 +6,8 @@
 
 **- 개발 툴: Expo Go**
 
+**- Server & DB: Firebase** 
+
 
 
 ### 시연 영상 
